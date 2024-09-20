@@ -13,8 +13,8 @@ public class Student {
     }
 
     public void studentStatus() {
-        System.out.println("STUDENT NAME: " + firstName + lastName);
-        System.out.println("STUDENT ID" + studentID);
+        System.out.println("STUDENT NAME: " + firstName + " " + lastName);
+        System.out.println("STUDENT ID: " + studentID);
         System.out.println("STUDENT GRADE: " + grade);
 
         if (grade >= 65) {
