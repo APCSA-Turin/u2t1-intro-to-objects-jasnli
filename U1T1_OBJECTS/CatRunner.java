@@ -1,3 +1,4 @@
+package U1T1_OBJECTS;
 public class CatRunner {
     public static void main(String[] args) {
         Cat cat1 = new Cat("Dog", 3, 20);

@@ -1,3 +1,4 @@
+package U1T1_OBJECTS;
 public class Student {
     // variables for the class
     String firstName;

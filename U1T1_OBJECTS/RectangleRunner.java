@@ -1,3 +1,5 @@
+package U1T1_OBJECTS;
+
 public class RectangleRunner {
    public static void main(String[] args) {
 
